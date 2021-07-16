@@ -15,3 +15,5 @@
 <br>
 <a href=https://gitlab.com/GammaRayStudio/DevDoc>"Gamma Roy軟體工作室gitlab"</a>
 <br>
+<a href=https://github.com/twtrubiks/linux-note>"Linux指令"</a>
+<br>
