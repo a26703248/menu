@@ -1,5 +1,5 @@
 # menu
-目錄
+<h1>索引</h1>
 <br>
 <a href=https://github.com/a26703248/Java0323>"java學習紀錄"</a>
 <br>
